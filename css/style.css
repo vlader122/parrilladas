@@ -110,7 +110,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/bodega.png);
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -208,7 +208,7 @@ a:focus {
   top: 0;
   left: 0;
   background-color: black;
-  background-color: rgba(110, 230, 92, 0.95);
+  background-color: rgba(57, 127, 217, 0.95);
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -372,11 +372,15 @@ a:focus {
   transition: all .3s;
   margin-left: 10px;
   margin-right: 10px;
+  width: 230px !important;
+  height: 230px !important;
+ 
 }
 
 .slider_section .slider_container .img-box img {
   width: 100%;
-  border: 10px solid #1a1a19;
+  height: 100%;
+  border: 5px solid #1c1e1c;
   border-radius: 100%;
 }
 
