@@ -10,7 +10,7 @@
                 Aplicacion
               </h2>
               <p>
-                long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The poin
+                Aplicacion del negocio para pedidos y ver diponibilidad del menu o reservar mesas
               </p>
               <div class="app_btn_box">
                 <a href="" class="mr-1">
@@ -21,7 +21,7 @@
                 </a>
               </div>
               <a href="" class="download_btn">
-                Download Now
+                Descargar ahora
               </a>
             </div>
           </div>
