@@ -384,6 +384,11 @@ a:focus {
   border-radius: 100%;
 }
 
+.img-box img {
+  border: 1px solid #1c1e1c;
+  border-radius: 100%;
+}
+
 .slider_section .slider_container .slick-active .img-box {
   margin-top: 45px;
 }
